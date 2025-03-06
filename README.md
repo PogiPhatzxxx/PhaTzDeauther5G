@@ -21,8 +21,9 @@ If you use this project and build upon it, please consider crediting these sourc
 2) Upload the firmware using the .ino file via Arduino IDE.
 3) Turn it on and select/attack!
 4) You can also connect to web ui (change credentials in code)
-    wifi= Kupalka
-    pw= password
+   
+   wifi= Kupalka
+   pw= password
 
 ## Requirements
 
