@@ -49,8 +49,8 @@ typedef struct {
 } WiFiScanResult;
 
 // Credentials for you Wifi network
-char *ssid = "littlehakr";
-char *pass = "0123456789";
+char *ssid = "Kupalka";
+char *pass = "password";
 
 int current_channel = 1;
 std::vector<WiFiScanResult> scan_results;
