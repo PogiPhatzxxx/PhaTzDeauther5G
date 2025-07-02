@@ -2,7 +2,7 @@
 RTL8720DN Deauther
 
 
-## Citation  
+## Acknowledgement  
 
 This project makes use of code from the following repositories. I acknowledge and appreciate the contributions of the original authors.  
 
